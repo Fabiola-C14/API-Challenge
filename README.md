@@ -10,7 +10,7 @@ A series of scatter plots were created to display the following information:
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-![](cloudiness_vs_latitude.png)
+![](images/latitude_vs_temperature.png)
 
 A series of scatter plots were created with a linear regression on each relationship. The plots were separated into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 *	Northern Hemisphere - Temperature (F) vs. Latitude
