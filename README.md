@@ -26,7 +26,7 @@ A series of scatter plots were created with a linear regression on each relation
 
 Jupyter-gmaps, and Google Places API was utilized to create a heat map that displays the humidity for every city from the part I.
 
-![](heat_map_humidity.png)
+![](images/heat_map_humidity.png)
 
 In addition, a DataFrame was created to identify locations around the world with perfect weather conditions:
 *	A max temperature lower than 80 degrees but higher than 70.
