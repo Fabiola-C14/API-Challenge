@@ -32,4 +32,4 @@ In addition, a DataFrame was created to identify locations around the world with
 *	A max temperature lower than 80 degrees but higher than 70.
 *	Wind speed less than 10 mph.
 *	Zero cloudiness.
-
+![](perfect_weather_hotels.png)
